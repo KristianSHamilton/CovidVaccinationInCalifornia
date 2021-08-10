@@ -1,4 +1,1 @@
-The null values got removed by groupby, so data for the tiny counties is not in here. I can't get the data county by county
-from the CDC, but when I wake up tomorrow I will change the null values in my dfs then upload that the updated csvs. 
-For now I need to get some sleep, it took me a long time to figure out how do convert the double groupby into a dataframe while getting the counts
-since trying .sum() was freezing my computer.
+The csvs should all be ready to use without indexes in the csv files.
