@@ -1,16 +1,26 @@
 # CovidVaccinationInCalifornia
 David's notebooks:
 
-sources: 
-Center for Disease Control
+Sources 
+
+Center for Disease Control:
+
 https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4
-usafacts.org
+
+usafacts.org:
+
 https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/state/california
-California Secretary of State
+
+California Secretary of State:
+
 https://elections.cdn.sos.ca.gov/ror/60day-recall-2021/
-United States Census Bureau
+
+United States Census Bureau:
+
 https://data.census.gov/cedsci/table?t=Disability%3AEducational%20Attainment%3AFamilies%20and%20Living%20Arrangements%3AHealth%3AHousing%3APopulations%20and%20People&g=0400000US06,06.050000&tid=ACSDP5Y2019.DP02&hidePreview=true
+
 California Health and Human Services:
+
 https://data.chhs.ca.gov/dataset/vaccine-progress-dashboard/resource/130d7ba2-b6eb-438d-a412-741bde207e1c
 
 
