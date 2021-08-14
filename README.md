@@ -23,6 +23,7 @@ California Health and Human Services:
 
 https://data.chhs.ca.gov/dataset/vaccine-progress-dashboard/resource/130d7ba2-b6eb-438d-a412-741bde207e1c
 
+https://www.california-demographics.com/counties_by_population
 
 cdc_data_cleaning_notebook.ipynb: jupyter notebook which reads the entire csv of CDC data on COVID cases in the US, and returns only cases in CA and the case month, county of residence, age group, sex, race, and ethnicity of each individual case. The original csv is 4GB, so this notebook makes the size of the data far more workable for the future notebooks.
 
